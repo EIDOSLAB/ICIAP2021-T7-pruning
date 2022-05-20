@@ -17,3 +17,4 @@ We will:
 3. Introduce simplify to exploit the introduced structured sparsity.
 
 To use the notebook, simply upload it to a Jupyter instance and follow along the notebook's cells.
+The notebook can be downloaded from the Drive folder https://drive.google.com/drive/folders/1IonOF6lo_7Son1cSqkdZrYlO8o2MVaAe?usp=sharing
