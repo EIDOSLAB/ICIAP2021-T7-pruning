@@ -1,6 +1,6 @@
-# EIDOSLab ICIAP Tutorial
+# Tutorial T7 ICIAP 2021
 
-## Making deep neural networks efficient with PyTorch
+## PRUNING DEEP NEURAL NETWORKS: TOWARDS EFFICIENT MODELS ON THE EDGE (with PyTorch)
 
 State-of-the-art deep learning techniques rely on over-parametrized models that are hard to deploy. On the contrary,
 biological neural networks are known to use efficient sparse connectivity. Identifying optimal techniques to compress
